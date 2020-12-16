@@ -5,7 +5,7 @@
 - 🥞 Tech Stack: HTML, CSS, JavaScript, React, Node.js
 - 📈 Getting better at: Redux, SQL, Python
 - 📫 Email: dee_downs@outlook.com 
-- 💼 Portfolio: www.deedowns.vercel.app
-- 👩🏾‍💼 LinkedIn: www.linkedin.com/in/dewandra-downs
-- 🤳🏾 Twitter: twitter.com/Dee_Downsss
+- 💼 [Portfolio](https://www.deedowns.vercel.app)
+- 👩🏾‍💼 [LinkedIn](www.linkedin.com/in/dewandra-downs)
+- 🤳🏾 [Twitter](www.twitter.com/Dee_Downsss)
 
