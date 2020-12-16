@@ -6,6 +6,6 @@
 - 📈 Getting better at: Redux, SQL, Python
 - 📫 Email: dee_downs@outlook.com 
 - 💼 Portfolio: www.deedowns.vercel.app
-- 👩🏾‍💼 Linkedin: www.linkedin.com/in/dewandra-downs
+- 👩🏾‍💼 LinkedIn: www.linkedin.com/in/dewandra-downs
 
 
