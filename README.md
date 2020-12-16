@@ -7,5 +7,5 @@
 - 📫 Email: dee_downs@outlook.com 
 - 💼 Portfolio: www.deedowns.vercel.app
 - 👩🏾‍💼 LinkedIn: www.linkedin.com/in/dewandra-downs
-
+- 🤳🏾 Twitter: twitter.com/Dee_Downsss
 
