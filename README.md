@@ -2,7 +2,6 @@
   <h1 align="center">Hi 👋🏾 I'm Dee</h1>
   <p align="center">Software Engineer 👩🏾‍💻</p>
   <p align="center">Pronouns: She/Her 😄</p>
-  <p align="center">dee_downs@outlook.com 📫</p>
 </p>
 <p align="center">
   <a href="https://twitter.com/Dee_Downsss">
@@ -12,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn"/>
   </a>
   <a href="mailto:dee_downs@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0e99ee?style=for-the-badge&labelColor=blue" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0e99ee?style=for-the-badge&logo=📫&labelColor=blue" alt="Email"/>
   </a>
 </p>
 <br />
