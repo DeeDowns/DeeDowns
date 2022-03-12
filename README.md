@@ -1,4 +1,5 @@
 <p>
+  <h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h1>
   <h1 align="center">Hi 👋🏾 I'm Dee</h1>
   <p align="center">Software Engineer 👩🏾‍💻</p>
   <p align="center">Pronouns: She/Her 😄</p>
