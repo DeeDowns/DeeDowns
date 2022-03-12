@@ -13,10 +13,10 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/dewandra-downs/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"/>
+    <img src="https://img.shields.io/endpoint?url=https://www.linkedin.com/in/dewandra-downs/&style=for-the-badge&logo=appveyor" alt="LinkedIn"/>
   </a>&nbsp;
 <!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
-<a href="https://twitter.com/DeeDownsss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://twitter.com/Dee_Downsss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <!-- <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p> -->
 <br />
