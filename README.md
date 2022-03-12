@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee&center=true&width=380&height=50&size=50&color=000000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee&center=true&width=380&height=70&size=50&color=000000">
 </p>
 <p align="center">Software Engineer 👩🏾‍💻</p>
 <p align="center">Pronouns: She/Her 😄</p>
