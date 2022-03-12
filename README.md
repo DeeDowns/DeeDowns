@@ -9,24 +9,21 @@
 
 
 <p>
-  <h1 align="center"><b>Hi 👋🏾 I'm Dee 👩🏾‍💻</h1>
+  <h1 align="center">Hi 👋🏾 I'm Dee 👩🏾‍💻</h1>
+  <p align="center">Software Engineer</p>
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dewandra-downs/" target="_blank">
-    <img src=”https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"/>
+<div align="center>
+  <a href="https://twitter.com/Dee_Downsss">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp; 
+  <a href="https://linkedin.com/in/dewandra-downs">
+    <img src=”https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
   </a>&nbsp;
-<!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
-<a href="https://twitter.com/Dee_Downsss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<!-- <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
-</p> -->
+</div>
 <br />
-
-<p>Software Engineer</p>
 <br />
-
 <h2 align="center">My projects 💻</h2>
 <br />
-
 <!-- <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
