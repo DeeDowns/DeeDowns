@@ -1,5 +1,7 @@
 <p>
-  <h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h1>
+  <h1align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+</h1>
   <h1 align="center">Hi 👋🏾 I'm Dee</h1>
   <p align="center">Software Engineer 👩🏾‍💻</p>
   <p align="center">Pronouns: She/Her 😄</p>
