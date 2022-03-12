@@ -1,13 +1,3 @@
-<!-- ### Hi 👋🏾 I'm Dee 👩🏾‍💻 
-#### Life-long learner and Software Engineer. 
-
-- 😄 Pronouns: she/her
-- 🥞 Tech Stack: HTML, CSS, JavaScript, React, Node.js
-- 📈 Getting better at: Redux, SQL, Python
-- 📫 Email: dee_downs@outlook.com 
-- 👩🏾‍💼 [LinkedIn](https://www.linkedin.com/in/dewandra-downs) -->
-
-
 <p>
   <h1 align="center">Hi 👋🏾 I'm Dee</h1>
   <p align="center">Software Engineer 👩🏾‍💻</p>
@@ -22,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn"/>
   </a>
   <a href="mailto:dee_downs@outlook.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&labelColor=blue" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0e99ee?style=for-the-badge&labelColor=blue" alt="Email"/>
   </a>
 </p>
 <br />
