@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee&font=Fira%20Code&center=true&width=380&height=70">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee&font=Fira%20Code&center=true&width=380&height=50&font=30&color=000000">
+</p>
 <p align="center">Software Engineer 👩🏾‍💻</p>
 <p align="center">Pronouns: She/Her 😄</p>
 <p align="center">
