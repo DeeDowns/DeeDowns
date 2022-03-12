@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn"/>
   </a>
   <a href="mailto:dee_downs@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0e99ee?style=for-the-badge&logo=📫&labelColor=blue" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0e99ee?style=for-the-badge&labelColor=blue" alt="Email"/>
   </a>
 </p>
 <br />
