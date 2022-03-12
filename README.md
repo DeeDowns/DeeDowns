@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee;Software+Engineer+👩🏾‍💻&center=true&width=580&height=100&size=40&color=000000">
 </p>
-<!-- <p align="center">Software Engineer 👩🏾‍💻</p> -->
 <p align="center">
   <a href="https://twitter.com/Dee_Downsss">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
