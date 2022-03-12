@@ -9,8 +9,10 @@
 
 
 <p>
-  <h1 align="center">Hi 👋🏾 I'm Dee 👩🏾‍💻</h1>
-  <p align="center">Software Engineer</p>
+  <h1 align="center">Hi 👋🏾 I'm Dee</h1>
+  <p align="center">Software Engineer 👩🏾‍💻</p>
+  <p align="center">Pronouns: She/Her 😄</p>
+  <p align="center">dee_downs@outlook.com 📫</p>
 </p>
 <p align="center">
   <a href="https://twitter.com/Dee_Downsss">
