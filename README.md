@@ -12,13 +12,13 @@
   <h1 align="center">Hi 👋🏾 I'm Dee 👩🏾‍💻</h1>
   <p align="center">Software Engineer</p>
 </p>
-<p align="center>
+<p align="center">
   <a href="https://twitter.com/Dee_Downsss">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp; 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
   <a href="https://linkedin.com/in/dewandra-downs">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn"/>
-  </a>&nbsp;
+  </a>
 </p>
 <br />
 <br />
