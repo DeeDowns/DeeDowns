@@ -1,11 +1,9 @@
-<p>
-  <h1align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee&font=Fira%20Code&center=true&width=380&height=50">
 </h1>
   <h1 align="center">Hi 👋🏾 I'm Dee</h1>
   <p align="center">Software Engineer 👩🏾‍💻</p>
   <p align="center">Pronouns: She/Her 😄</p>
-</p>
 <p align="center">
   <a href="https://twitter.com/Dee_Downsss">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
