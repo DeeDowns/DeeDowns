@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee&center=true&width=380&height=65&size=40&color=000000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee;Software+Engineer+🏾‍💻&center=true&width=380&height=65&size=40&color=000000">
 </p>
-<p align="center">Software Engineer 👩🏾‍💻</p>
-<p align="center">Pronouns: She/Her 😄</p>
+<!-- <p align="center">Software Engineer 👩🏾‍💻</p> -->
 <p align="center">
   <a href="https://twitter.com/Dee_Downsss">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -29,7 +28,8 @@
 
 <h2 align="center">About me 💁🏾‍♀️</h2>
 <p align="center">
-Timezone: Pacific Standard Time (PST)
+Pronouns: She/Her 😄
+Currently: California
 </p>
 <br />
 <p>In my latest project, I created ...</p>
