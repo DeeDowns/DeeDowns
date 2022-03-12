@@ -67,10 +67,7 @@ Timezone: Pacific Standard Time (PST)
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeDowns&layout=compact&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DeeDowns&theme=radical&show_icons=true" width="410"/>
-<!--   [![Dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeDowns)](https://github.com/DeeDowns/github-readme-stats) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeDowns&layout=compact&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeeDowns&theme=tokyonight&show_icons=true" width="410"/>
 </p>
 
