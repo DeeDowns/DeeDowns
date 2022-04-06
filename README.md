@@ -31,10 +31,10 @@ Pronouns: She/Her 😄
 Currently: California
 </p>
 <br />
-<p>In my latest project, I created ...</p>
+<!-- <p>In my latest project, I created ...</p> -->
 <p>💪🏾 I am currently trying to improve my understanding of CS fundamentals (DS + Algos)<p/>
 <br />
-<p>💃🏾 Fun fact: I studied Anthropology in school and was a flight attendant before transitioning into Tech <p/>
+<p>💃🏾 Fun fact: I studied Anthropology in school and was a flight attendant before getting into Software Development <p/>
 <br />
 <br />
 <h2 align="center"> Languages and Tools 🥞</h2>
