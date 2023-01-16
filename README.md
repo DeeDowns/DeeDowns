@@ -13,7 +13,7 @@
   </a>
 </p>
 <br />
-<br />
+<!-- <br />
 <h2 align="center">My projects 💻</h2>
 <br />
 <p align="center">
@@ -21,7 +21,7 @@
 <!--   <a href="https://github.com/the-collab-lab/tcl-17-smart-shopping-list">
     <img align="" src="https://media-exp1.licdn.com/dms/image/C562DAQE-HrgvPMGw5A/profile-treasury-image-shrink_800_800/0/1614817120115?e=1647198000&v=beta&t=95v5K1RuP043O1sx5MjYs9cVGSVrR2rYEJqhNnQUibs" />
   </a> -->
-</p>
+</p> -->
 
 <br />
 
