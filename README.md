@@ -21,20 +21,20 @@
 <!--   <a href="https://github.com/the-collab-lab/tcl-17-smart-shopping-list">
     <img align="" src="https://media-exp1.licdn.com/dms/image/C562DAQE-HrgvPMGw5A/profile-treasury-image-shrink_800_800/0/1614817120115?e=1647198000&v=beta&t=95v5K1RuP043O1sx5MjYs9cVGSVrR2rYEJqhNnQUibs" />
   </a> -->
-</p> -->
+</p>
 
 <br />
 
-<h2 align="center">About me 💁🏾‍♀️</h2>
-<p align="center">
+<!-- <h2 align="center">About me 💁🏾‍♀️</h2> -->
+<h2 align="center">
 Pronouns: She/Her 😄
-Currently: California
-</p>
+Currently: Austin, TX
+</h2>
 <br />
 <!-- <p>In my latest project, I created ...</p> -->
-<p>💪🏾 I am currently trying to improve my understanding of CS fundamentals (DS + Algos)<p/>
+<!-- <p>💪🏾 I am currently trying to improve my understanding of CS fundamentals (DS + Algos)<p/>
 <br />
-<p>💃🏾 Fun fact: I studied Anthropology in school and was a flight attendant before getting into Software Development <p/>
+<p>💃🏾 Fun fact: I studied Anthropology in school and was a flight attendant before getting into Software Development <p/> -->
 <br />
 <br />
 <h2 align="center"> Languages and Tools 🥞</h2>
