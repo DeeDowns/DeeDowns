@@ -28,7 +28,7 @@
 <!-- <h2 align="center">About me 💁🏾‍♀️</h2> -->
 <h2 align="center">
 Pronouns: She/Her 😄
-Currently: Austin, TX
+Currently: Boston, MA
 </h2>
 <br />
 <!-- <p>In my latest project, I created ...</p> -->
