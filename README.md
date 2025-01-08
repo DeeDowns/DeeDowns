@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee;Software+Developer+👩🏾‍💻&center=true&width=580&height=100&size=40&color=000000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏾+I'm+Dee&center=true&width=580&height=100&size=40&color=000000">
 </p>
 <p align="center">
 <!--   <a href="https://twitter.com/Dee_Downsss">
